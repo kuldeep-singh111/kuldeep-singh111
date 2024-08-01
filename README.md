@@ -1,5 +1,4 @@
-Hi, I'm Kuldeep Singh 😄
-I'm Kuldeep Singh, a dedicated Computer Science Engineering student and a versatile full stack web developer. I am passionate about exploring new technologies and continuously improving my skills. Currently, I’m focusing on full stack development technologies.
+ 😄I'm Kuldeep Singh, a dedicated Computer Science Engineering student and a versatile full stack web developer. I am passionate about exploring new technologies and continuously improving my skills. Currently, I’m focusing on full stack development technologies.
 
 💞️  Skills & Technologies
 
