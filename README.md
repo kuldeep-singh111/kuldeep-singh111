@@ -1,21 +1,30 @@
- 😄I'm Kuldeep Singh, a dedicated Computer Science Engineering student and a versatile full stack web developer. I am passionate about exploring new technologies and continuously improving my skills. Currently, I’m focusing on full stack development technologies.
+# 👋 Hi, I'm Kuldeep Rajput
 
-💞️  Skills & Technologies
+🚀 **Full Stack AI Engineer
 
-👀 Frontend:
-Languages & Markup: HTML, CSS, SCSS
-Frameworks & Libraries: Tailwind CSS, Bootstrap, Material-UI, Ant Design
-JavaScript Ecosystem: JavaScript, TypeScript, React.js, Redux, Next.js
+I build scalable, production-ready applications across domains like **FinTech, HealthTech, Legal, E-commerce, CRM, ERP, Banking, Travel & Media.
 
-👀 Backend:
-Server-Side Languages & Frameworks: Node.js, Express.js
-Databases: MongoDB, Mongoose, MySQL
-Authentication & Security: JWT
-GraphQL: GraphQL
+---
 
-👀DevOps:
-Containerization & Orchestration: Docker, Kubernetes
-Cloud Platforms: AWS
-CI/CD Tools: Jenkin
-📚 Currently Learning
-I'm actively expanding my expertise in backend development and exploring advanced DevOps practices to enhance my skill set and contribute to innovative projects.
+## 🛠️ Tech Stack
+
+**Frontend:** React.js, Next.js, Redux, TypeScript, Tailwind
+**Backend:** Node.js, Express, NestJS, GraphQL
+**Databases:** MongoDB, MySQL, PostgreSQL, Redis
+**DevOps:** AWS, VPS, Docker, Kubernetes, CI/CD, PM2, Nginx, Ubuntu
+
+---
+
+## ⚡ Core Skills
+
+Scalable Architecture • System Design • API Development • Deployment • Performance Optimization
+
+---
+
+## 📚 Currently Learning
+
+AI Integration • Distributed Systems • Advanced Backend
+
+---
+
+⭐ *Building real-world scalable systems*
