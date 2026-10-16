@@ -1,30 +1,28 @@
-# 👋 Hi, I'm Kuldeep Rajput
+# Kuldeep Rajput
+### Full Stack Developer | Cloud Infrastructure | DevOps
 
-🚀 **Full Stack AI Engineer
+Full Stack Developer with **3+ years of experience** designing, developing, deploying, and maintaining scalable, production-ready web and mobile applications. Experienced in cloud infrastructure management, backend engineering, system integration, CI/CD, and production operations across FinTech, Treasury, Hospitality, LegalTech, Banking, and enterprise software.
 
-I build scalable, production-ready applications across domains like **FinTech, HealthTech, Legal, E-commerce, CRM, ERP, Banking, Travel & Media.
+Skilled in end-to-end application development, cloud and VPS deployments, third-party integrations, AI-powered workflow automation, and Android/iOS application release management.
 
----
+## Technical Skills
 
-## 🛠️ Tech Stack
+**Cloud Infrastructure & DevOps:** AWS, Google Cloud Platform (GCP), Cloud Architecture, Cloud Deployment, VPS Management, Linux, Ubuntu, Docker, Kubernetes, CI/CD Pipelines, Nginx, PM2, DNS, SSL/TLS, Production Monitoring, Backup & Recovery
 
-**Frontend:** React.js, Next.js, Redux, TypeScript, Tailwind
-**Backend:** Node.js, Express, NestJS, GraphQL
-**Databases:** MongoDB, MySQL, PostgreSQL, Redis
-**DevOps:** AWS, VPS, Docker, Kubernetes, CI/CD, PM2, Nginx, Ubuntu
+**Backend Engineering & Distributed Systems:** Node.js, Express.js, NestJS, REST APIs, GraphQL, Microservices, Apache Kafka, RabbitMQ, Event-Driven Architecture, Asynchronous Processing
 
----
+**Frontend Development:** React.js, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, Responsive Web Development
 
-## ⚡ Core Skills
+**Databases & Caching:** PostgreSQL, MongoDB, MySQL, Redis, Database Design, Query Optimization, Database Migrations, Data Integrity
 
-Scalable Architecture • System Design • API Development • Deployment • Performance Optimization
+**AI & Intelligent Automation:** Agentic AI, AI Agents, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering, AI Workflow Automation
 
----
+**Mobile Application Development:** Android, iOS, Expo, Google Play Console, App Store Connect, Mobile API Integration, App Deployment & Release Management
 
-## 📚 Currently Learning
+**System Architecture & Security:** System Design, Scalable Architecture, Authentication & Authorization, Role-Based Access Control (RBAC), SSO, Third-Party Integrations, Performance Optimization, Production Troubleshooting
 
-AI Integration • Distributed Systems • Advanced Backend
+**Technical & Product Leadership:** Technical Planning, Product Engineering, Team Coordination, Task Delegation, Code Reviews, Release Management, End-to-End Delivery
 
----
+## Core Competencies
 
-⭐ *Building real-world scalable systems*
+Cloud Infrastructure Management • Full Stack Engineering • Backend Architecture • Distributed Systems • API Development & Integration • Production Deployment • CI/CD Automation • Mobile App Publishing • System Reliability • Technical Leadership
